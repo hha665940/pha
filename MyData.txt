@@ -1,1 +1,2 @@
 Aufgabe 10b) .gitignore ist da für da um bestimmte Datei zu ignorieren. Da es hier für keinen Befehl gibt, wird dieser manuelle bearbeitet. In diese Datei kommt alles rein, was für das Projekt ein Hindernis sein kann, z.ß aus Speichertplatz Gründen oder auch Sicherheit. Es lohnt sich deshalb eine eigene Sammlung zu erstellen (*.pdf) für die anderen Projektmitglieder.
+Aufgabe 10c) Eine wichtige Frage: Gilt P = NP?
